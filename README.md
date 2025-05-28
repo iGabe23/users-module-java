@@ -1,6 +1,6 @@
 # Módulo de Gestión de Usuarios - Proyecto Jobify
 
-Este módulo forma parte del sistema **Jobify**, una plataforma que conecta clientes con proveedores de servicios. La presente evidencia corresponde a la implementación del módulo de gestión de usuarios utilizando **Java**, **JDBC** y **MySQL**.
+Este módulo forma parte de las pruebas del sistema **Jobify**, una plataforma que conecta clientes con proveedores de servicios. La presente evidencia corresponde a la implementación del módulo de gestión de usuarios utilizando **Java**, **JDBC** y **MySQL**.
 
 ## Tecnologías utilizadas
 
